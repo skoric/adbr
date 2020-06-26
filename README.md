@@ -1,6 +1,6 @@
 # Android Debug Bridge Recorder (adbr)
 
-The `adbr.sh` is a small bash script that will allow you to easily record Android device/emulator screen. It allows you to take many screen recording by just pressing a key in the terminal.
+The `adbr.sh` is a small bash script that allows you to easily record Android device/emulator screen. You can take many screen recording by just pressing a key in the terminal.
 
 ### Features
 
