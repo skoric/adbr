@@ -63,7 +63,7 @@ emulator-5554   device
 git clone https://github.com/skoric/adbr.git ~/adbr
 
 # Create alias in your shell config file ('.bash_profile', '.zshrc', etc.).
-echo "alias adbr=\"sh $HOME/adbss/adbr.sh\"" >> ~/.zshrc
+echo "alias adbr=\"sh $HOME/adbr/adbr.sh\"" >> ~/.zshrc
 
 # Reload configuration.
 source ~/.zshrc
